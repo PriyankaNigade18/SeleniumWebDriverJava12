@@ -3,7 +3,7 @@ package webTest;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class BrowserCommmands {
+public class GoogleTitleValidation {
 
 	public static void main(String[] args) {
 		/*
