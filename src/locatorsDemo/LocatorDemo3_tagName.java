@@ -37,12 +37,12 @@ public class LocatorDemo3_tagName {
 		{
 		System.out.println(i.getText());
 		System.out.println(i.getAttribute("href"));
-		if(i.getAttribute("href").contains(exp))
-		{
-			System.out.println("Link found.....Test Pass!");
-			i.click();
-			break;
-		}
+//		if(i.getAttribute("href").contains(exp))
+//		{
+//			System.out.println("Link found.....Test Pass!");
+//			i.click();
+//			break;
+//		}
 		
 		}
 		
